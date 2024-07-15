@@ -1,0 +1,16 @@
+.footer {
+  background-color: #333;
+  color: white;
+  border-top: solid var(--primary-color) 5px;
+  text-align: center;
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 0 10px var(--primary-color);
+}
+
+.footer img {
+  width: 100px;
+  height: auto;
+}

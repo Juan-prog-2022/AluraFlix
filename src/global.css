@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@400;500;700&display=swap');
+
+:root {
+  /* Colores */
+  --primary-color: #3498db;
+  --secondary-color: #9be743;
+  --background-color: #f0f0f0;
+  --text-color: #333;
+  --link-color: #3498db;
+  /* Colores de equipos */
+  --color-back: #00C86F;
+  --color-front: #6BD1FF;
+  --color-inno: #FFBA05;
+  --color-ia: #630db9;
+
+  /* Fuentes */
+  --font-family: 'Roboto', sans-serif;
+  --heading-font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--font-family);
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  font-family: var(--heading-font-family);
+}
+
+a {
+  text-decoration: none;
+  color: var(--link-color);
+}

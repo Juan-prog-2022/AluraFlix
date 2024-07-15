@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Video 1",
+      "thumbnailUrl": "https://img.youtube.com/vi/nzVdLC_QpnA/default.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=nzVdLC_QpnA&ab_channel=AluraLatam",
+      "description": "¿Estás preparando tu currículum y no sabes qué información es realmente importante? En este video, te guiaré paso a paso sobre qué elementos son esenciales para incluir en tu CV y qué detalles es mejor dejar fuera."
+    },
+    {
+      "id": 2,
+      "title": "Video 2",
+      "thumbnailUrl": "https://img.youtube.com/vi/Yz-6uHdwBPE/default.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=Yz-6uHdwBPE&ab_channel=AluraLatam",
+      "description": "Ya no es novedad que las inteligencias artificiales existen para ayudarnos con nuestras tareas laborales y del día a día, pero ¿sabías que puedes aprender y practicar inglés utilizando una IA? En este video, Christian Velasco, nos enseña como podemos utilizar el ChatGPT para practicar inglés."
+    },
+    {
+      "id": 3,
+      "title": "Video 3",
+      "thumbnailUrl": "https://img.youtube.com/vi/TF_Rde1kbw8/default.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=TF_Rde1kbw8&ab_channel=AluraLatam",
+      "description": "En este video, Gabriela Aguiar, nos explicará sobre la productividad y exploraremos técnicas probadas y estrategias innovadoras para impulsar tu eficiencia."
+    },
+    {
+      "id": 4,
+      "title": "Video 4",
+      "thumbnailUrl": "https://img.youtube.com/vi/TvKM5CGvNJ0/default.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=TvKM5CGvNJ0&ab_channel=AluraLatam",
+      "description": "En este video nuestro instructor Leonardo Castillo nos explicará qué es, cómo funciona y para qué sirve un ORM."
+    },
+    {
+      "id": 5,
+      "title": "Video 5",
+      "thumbnailUrl": "https://img.youtube.com/vi/_-9grhDhxiU/default.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=_-9grhDhxiU&t=13s",
+      "description": "Siempre estamos hablando aquí en el canal de Alura Latam sobre la importancia de las Soft Skills, y en este video vamos a listar las 7 habilidades blandas más demandadas por las empresas en este 2024."
+    },
+    {
+      "id": 6,
+      "title": "Video 6",
+      "thumbnailUrl": "https://img.youtube.com/vi/KSyqCUAr2CU/default.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=KSyqCUAr2CU",
+      "description": "En este video te llevaremos por las mejores técnicas para mejorar tu aprendizaje y retención. Ya sea que estés estudiando para un examen, aprendiendo una nueva habilidad, o simplemente buscando maneras de optimizar tu proceso de aprendizaje, este video te proporcionará estrategias prácticas y basadas en la ciencia para alcanzar tus objetivos."
+    },
+    {
+      "id": 7,
+      "title": "Video 7",
+      "thumbnailUrl": "https://img.youtube.com/vi/9xlea2yDFaY/default.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=9xlea2yDFaY",
+      "description": "En este Alura+ el instructor Daniel Riverol nos enseña los diferentes usos de uno de los hooks más utilizados en React."
+    },
+    {
+      "id": 8,
+      "title": "Video 8",
+      "thumbnailUrl": "https://img.youtube.com/vi/AG2QssLpQzI/default.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=AG2QssLpQzI",
+      "description": "Sabemos que posicionar elementos utilizando CSS a veces puede ser algo desafiador, por eso en este video nuestra instructora Jeanmarie Quijada te explica que es la propiedad Display en CSS y algunos de sus valores, te mostrara en código el comportamiento del elemento DIV al utilizar algunos de los valores de la propiedad display como: block, inline y inline block."
+    },
+    {
+      "id": 9,
+      "title": "Video 9",
+      "thumbnailUrl": "https://img.youtube.com/vi/GJfOSoaXk4s/default.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "description": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips."
+    },
+    {
+      "id": 10,
+      "title": "Video 10",
+      "thumbnailUrl": "https://img.youtube.com/vi/EB4vWLzfVcI/default.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=EB4vWLzfVcI&ab_channel=AluraLatam",
+      "description": "En esta nueva edición de Alura + aprenderemos un poco más sobre los primeros pasos para empezar a trabajar con Flexbox en CSS y conoceremos las principales etiquetas y cómo aplicarlas."
+    }
+  ]
+}
+
+  
